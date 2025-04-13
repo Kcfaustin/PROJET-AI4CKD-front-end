@@ -4,7 +4,7 @@
  */
 
 // URL de base de l'API, à configurer dans .env.local
-const API_BASE_URL = 'http://localhost:8000/api';
+const API_BASE_URL = 'https://nephrosuivibackend.onrender.com/api';
 
 /**
  * Fonction utilitaire pour effectuer des requêtes API
